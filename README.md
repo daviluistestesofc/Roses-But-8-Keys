@@ -22,4 +22,4 @@ made in: leather engine
 
 # Alt Links
 
-[GameBanana](https://gamebanana.com/mods/708826)
+<img width="32" height="32" alt="GameBanana" src="./icons/32x32.png" /> [GameBanana](https://gamebanana.com/mods/708826)
